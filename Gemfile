@@ -36,3 +36,8 @@ gem "jekyll-theme-chirpy"
 
 # Or add to _config.yml
 theme: jekyll-theme-chirpy
+
+gem "jekyll-remote-theme"
+gem "jekyll-paginate"
+gem "jekyll-sitemap" 
+gem "jekyll-feed"
